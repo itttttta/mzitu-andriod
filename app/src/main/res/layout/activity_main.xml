@@ -23,4 +23,12 @@
         tools:layout_editor_absoluteX="116dp"
         tools:layout_editor_absoluteY="89dp" />
 
+    <ImageView
+        android:id="@+id/testImageView"
+        android:layout_width="200dip"
+        android:layout_height="200dip"
+        android:background="@color/colorPrimaryDark"
+        tools:layout_editor_absoluteX="154dp"
+        tools:layout_editor_absoluteY="214dp" />
+
 </android.support.constraint.ConstraintLayout>
